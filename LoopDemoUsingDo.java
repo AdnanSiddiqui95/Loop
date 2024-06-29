@@ -1,6 +1,6 @@
 
 public class LoopDemoUsingDo {
-
+	// loop using do and while
 	public static void main(String[] args) 
 	{
 		int ctr=0;

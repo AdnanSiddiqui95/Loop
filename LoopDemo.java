@@ -1,7 +1,7 @@
 
 public class LoopDemo
 {
-
+	//loop using while 
 	public static void main(String[] args)
 	{
 		int ctr=0;
